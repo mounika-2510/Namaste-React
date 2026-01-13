@@ -1,0 +1,30 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Akshay Saini",
+  "homepage": "https://github.com/mounika-2510/Namaste-React#readme",
+  "bugs": {
+    "url": "https://github.com/mounika-2510/Namaste-React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mounika-2510/Namaste-React.git"
+  },
+  "license": "ISC",
+  "author": "Mounika",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel Coding/index.html",
+    "build": "parcel build Coding/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
